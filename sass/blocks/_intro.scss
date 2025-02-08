@@ -1,0 +1,29 @@
+.intro-container{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 50px;
+    width: 1200px;
+    margin-bottom: 100px;
+}
+.intro-text-box {
+    max-width: 479px;
+    max-height: 472px;
+    margin-left: 50px;
+
+}
+
+.intro-top-info {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    color: $black;
+    text-transform: uppercase;
+}
+
+.intro-bottom-info {
+    font-family: Source Serif 4;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(102, 102, 102);
+}

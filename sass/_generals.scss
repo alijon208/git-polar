@@ -1,0 +1,48 @@
+ul,ol {
+    list-style: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    font-family: 'Libre Franklin';
+    color: $black;
+}
+.link{
+    font-family: 'Libre Franklin';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+}
+.container {
+    width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.text {
+    font-family: 'Tenor Sans';
+    color: $black;
+}
+
+.title {
+    font-family: 'Libre Franklin';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    color: $gray;
+}
+
+.by {
+    font-family: 'Libre Franklin';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    color: $black;
+}

@@ -1,0 +1,13 @@
+.featured{
+    margin-bottom: 100px;
+    text-transform: uppercase;
+}
+.featured-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.featured-item{
+    max-width: 580px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
